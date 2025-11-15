@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">Hi, my name is Fernanda Carolina! I'm from Brazil 🌎<br><br>- 🔭 I’m working as software developer<br>- 📚 I'm currently studying computer science<br>- ⚡ I personaly love challenges and solving problems like a video-games</p>
+<p align="left">Hi, my name is Fernanda Carolina! I'm from Brazil 🌎<br><br>- 🔭 I’m working as software developer<br>- 📚 I'm currently studying computer science<br>- ⚡ I personaly love challenges and solving problems like a video-game</p>
 
 ###
 
