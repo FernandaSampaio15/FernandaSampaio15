@@ -9,10 +9,12 @@
 
 <p align="left">
   Hi, my name is <b>Fernanda Carolina</b>! I'm from Brazil 🌎<br><br>
-  - 🔭 <b>Role:</b> Backend Software Developer · Computer Science Student<br>
-  - 📚 <b>Focus:</b> Java, Spring Boot and Linux<br>
-  - ⚡ <b>Mindset:</b> Driven by challenges and solving complex problems with a gaming mindset
+  - 🔭 Backend Software Developer · Computer Science Student<br>
+  - 📚 Focus on Java, Spring Boot and Linux<br>
+  - ⚡ Driven by challenges and solving complex problems like a game
 </p>
+
+<br>
 
 <!-- LinkedIn Button and Naruto GIF -->
 <div align="center">
@@ -21,10 +23,12 @@
   </a>
   <br><br>
   <!-- Naruto Shadow Clone Jutsu GIF -->
-  <img src="" height="180" alt="Naruto" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm11dXdhcGltMDg3cjhwc2N4dzE3YXZjNzY5ZnppanNlcHRsMXJjYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/DwCUzvqR14RpyZbpg8/giphy.gif" height="180" alt="Naruto" width="280" />
 </div>
 
 <hr>
+
+<br>
 
 <h3 align="left">🧠 Languages & Frameworks</h3>
 
@@ -65,7 +69,8 @@
 </div>
 
 <br>
+<br>
 
 <div align="center">
-  <img height="280" src="https://i.pinimg.com/736x/de/9f/ac/de9fac23ab831da3e0746c6fbe2b367e.jpg" />
+  <img height="280" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXZ5MjRkMW15bW55Z2d3MnRzcGNyMWdvdWs4cGxjbjVseXFleThidiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/XfYBBdhTqsNGxHu7xE/giphy.gif" />
 </div>
